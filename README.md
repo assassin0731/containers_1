@@ -1,7 +1,7 @@
 # Implementation of list, stack, queue
 
 <details>
-  <summary>__List__</summary>
+  <summary>List</summary>
 *List Member type*
 
 В этой таблице перечислены внутриклассовые переопределения типов (типичные для стандартной библиотеки STL), принятые для удобства восприятия кода класса:
