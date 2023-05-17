@@ -1,6 +1,6 @@
 # Implementation of list, stack, queue
 
-## List
+### List
 
 *List Member type*
 
