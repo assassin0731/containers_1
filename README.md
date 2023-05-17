@@ -1,7 +1,7 @@
 # Implementation of list, stack, queue
 
 ### List
-
+<details>
 *List Member type*
 
 В этой таблице перечислены внутриклассовые переопределения типов (типичные для стандартной библиотеки STL), принятые для удобства восприятия кода класса:
@@ -76,3 +76,4 @@
 | `void reverse()`                   | reverses the order of the elements              |
 | `void unique()`                   | removes consecutive duplicate elements               |
 | `void sort()`                   | sorts the elements                |
+</details>
